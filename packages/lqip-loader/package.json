@@ -19,7 +19,7 @@
   "dependencies": {
     "@docusaurus/logger": "^3.0.0-alpha.0",
     "file-loader": "^6.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "sharp": "^0.30.7",
     "tslib": "^2.4.0"
   },
